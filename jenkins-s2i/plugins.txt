@@ -1,2 +1,3 @@
 kubernetes:0.10
 locale:1.2
+gradle:1.28
